@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <title>WORLDNEWS</title>
+  <meta charset="UTF-8">
+<link href="PRO.css" rel="stylesheet" type="text/css">
+</head>
+<body> 
+  <div class="site">
+    <header class="box header">
+     <h1><center>WORLDNEWS<h1</center></h1>
+      <nav>
+        <ul>
+          <center> <li><a href="EllenB.html">Ellen Bäckman</a></li>
+          <li><a href="MoaW.html">Moa Westman</a></li>
+          <li><a href="KarinM.html">Karin Majqvist</a></li>
+          <li><a href="OliviaA.html">Olivia Alfredsson</a></li>  </center>
+        </ul>
+      </nav>
+    </header>
+    <main class="box main-area nested">
+      <article>
+        <h3>RUSSIA REFUSES TO GIVE UP</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos ipsa architecto officia quisquam. Harum blanditiis dolorem, saepe dicta fugit explicabo recusandae eveniet velit quaerat!</p> <center><img src="https://images.unsplash.com/photo-1524509717343-7930b0d384b9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ"></center> </img>
+      </article>
+      
+      <article>
+              <h3>UNESCO SITES ARE HIGHLY EXPOSED TO CLIMATE CHANGE</h3>   
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos ipsa architecto officia quisquam. Harum blanditiis dolorem, saepe dicta fugit explicabo recusandae eveniet velit quaerat! </p><center><img src="https://images.unsplash.com/photo-1530675392811-1966d9218af1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ"></center> </img> 
+      </article>
+      
+      <article>
+        <h3>NEWBORN BABIES MAY SOON BE DNA SCANNDED</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos ipsa architecto officia quisquam. Harum blanditiis dolorem, saepe dicta fugit explicabo recusandae eveniet velit quaerat! </p><center><img src="https://images.unsplash.com/photo-1527620743113-fac8dd0f8d17?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ"<center></img>
+      </article>
+      
+      <article>
+        <h3>THE WINTER IS NOT OVER</h3>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolores, inventore sit iste debitis rerum eveniet optio quam quisquam incidunt ad corporis illum quos soluta vero atque est animi autem voluptatum?</p><center><img src=" https://images.unsplash.com/photo-1491002052546-bf38f186af56?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ"<center></img>
+      </article>
+    </main>
+    
+    <section class="annonser">
+        </figure>
+      </article>
+    </section>
+    
+    <aside class="box sidebar">
+      <p></p>
+      <a target="_blank" title="follow me on facebook" href="https://www.facebook.com/PLACEHOLDER"><img alt="follow me on facebook" src="https://c866088.ssl.cf3.rackcdn.com/assets/badgefacebook.png" border=0></a>
+  
+    </aside>
+    
+    <footer class="box sidfot">
+      © 2019 This is WORLDNEWS
+    </footer>
+    
+  </div><!--End of site wrapper -->
+</body>
+</html>
